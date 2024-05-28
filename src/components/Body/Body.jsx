@@ -1,4 +1,4 @@
-import { products } from "../../data/Data";
+import { products } from "../../Data/Data";
 import Card from "../Card/Card";
 
 const Body = ({ cartItems, setCartItems }) => {
